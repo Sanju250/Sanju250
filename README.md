@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanju panchal</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">A passionate About software engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanju250&label=Profile%20views&color=0e75b6&style=flat" alt="sanju250" /> </p>
 
